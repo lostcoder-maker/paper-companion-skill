@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Companion"
+  short_description: "Find, download, index, and read papers."
+  default_prompt: "Find an open-access paper, download it, index it, then help me understand its contribution, method, evidence, limitations, and related work."
